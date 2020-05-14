@@ -1,0 +1,17 @@
+1. Write a java program to verify whether the given String is valid email address.
+Input: "balaji.chandrasekaran@testleaf.com"
+output: true
+Input: "balaji.c@tunatap.co.uk"
+output: true
+Input: "naveen e@tl.com"
+output: false
+Note: Spl characters like . _ are only allowed
+2. Write a java program to validate the given username is valid or not
+Input: "Balaji_1"
+output: false
+Input: "Testleaf$123"
+output: false
+Note: 
+1. It should contain minimum 8 characters.
+2. It allows alpha numeric characters and spl characters like . _ @ $
+ 
